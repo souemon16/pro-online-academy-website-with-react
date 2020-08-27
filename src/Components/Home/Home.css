@@ -1,0 +1,14 @@
+#home{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 30px;
+}
+.home-info{
+    width: 55%;
+}
+.home-detail{
+    width: 42%;
+}
+span{
+    color: mediumseagreen;
+}

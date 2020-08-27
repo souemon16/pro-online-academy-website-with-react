@@ -1,0 +1,10 @@
+#courses{
+    width: 33%;
+    height: 500px;
+    float: left;
+    margin: 25px 2px;
+}
+.card{
+    height: 520px;
+    box-shadow: 1px 1px 30px lightslategrey;
+}

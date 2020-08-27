@@ -1,0 +1,9 @@
+.jumbotron-section{
+    margin: 0px 20px;
+    margin-top:2800px;
+    border-radius: 5px;
+}
+.jumbotron{
+    background: url('https://udemy-images.udemy.com/browse_components/shared-assets/purple-intersect.svg') repeat-x #6e1a52;
+    color:white;
+}

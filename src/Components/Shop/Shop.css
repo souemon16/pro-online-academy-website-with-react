@@ -1,0 +1,18 @@
+#shop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.shop-course{
+    width: 80%;
+    margin-left: 20px;
+}
+.shop-cart{
+    width: 20%;
+    text-align: right;
+    margin-right: 22px;
+}
+.cart{
+    width: 100px;
+    height: 50px;
+}
